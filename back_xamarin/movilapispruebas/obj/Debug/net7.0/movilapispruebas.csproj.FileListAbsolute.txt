@@ -1,0 +1,219 @@
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\appsettings.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.exe
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.deps.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.runtimeconfig.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.pdb
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.AssemblyReference.cache
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfoInputs.cache
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfo.cs
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CoreCompileInputs.cache
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.movilapispruebas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.build.movilapispruebas.props
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movilapispruebas.props
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movilapispruebas.props
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\scopedcss\bundle\movilapispruebas.styles.css
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CopyComplete
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\refint\movilapispruebas.dll
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.pdb
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.genruntimeconfig.cache
+C:\Users\kingu\source\repos\movilapispruebas\movilapispruebas\obj\Debug\net7.0\ref\movilapispruebas.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\appsettings.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.exe
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.deps.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.runtimeconfig.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\movilapispruebas.pdb
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.AssemblyReference.cache
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfoInputs.cache
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfo.cs
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CoreCompileInputs.cache
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.movilapispruebas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.build.movilapispruebas.props
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movilapispruebas.props
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movilapispruebas.props
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\scopedcss\bundle\movilapispruebas.styles.css
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CopyComplete
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\refint\movilapispruebas.dll
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.pdb
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\movilapispruebas.genruntimeconfig.cache
+C:\Users\alkosto\OneDrive - cecar.edu.co\Escritorio\Movil\api\movilapispruebas\movilapispruebas\obj\Debug\net7.0\ref\movilapispruebas.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\appsettings.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\movilapispruebas.exe
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\movilapispruebas.deps.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\movilapispruebas.runtimeconfig.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\movilapispruebas.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\movilapispruebas.pdb
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.AssemblyReference.cache
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfoInputs.cache
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.AssemblyInfo.cs
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CoreCompileInputs.cache
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.movilapispruebas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.build.movilapispruebas.props
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movilapispruebas.props
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movilapispruebas.props
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\scopedcss\bundle\movilapispruebas.styles.css
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.csproj.CopyComplete
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\refint\movilapispruebas.dll
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.pdb
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\movilapispruebas.genruntimeconfig.cache
+C:\Users\estar\source\repos\movilapispruebas terminada fin de momen\movilapispruebas terminada fin de momen\movilapispruebas\obj\Debug\net7.0\ref\movilapispruebas.dll
