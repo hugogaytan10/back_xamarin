@@ -5,67 +5,80 @@ using movilapispruebas.Models;
 
 namespace movilapispruebas.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class VehiculosController : Controller
-    {
-        private readonly AppDbContext context;
-        public VehiculosController(AppDbContext context)
-        {
-            this.context = context;
-        }
+	[Route("api/[controller]")]
+	[ApiController]
+	public class VehiculosController : ControllerBase
+	{
+		private readonly AppDbContext context;
 
-        // GET: api/<VehiculosController>
-        [HttpGet]
-        public IEnumerable<Vehiculos> Get()
-        {
-            return context.vehiculos.ToList();
-        }
+		public VehiculosController(AppDbContext context)
+		{
+			this.context = context;
+		}
 
-        // GET api/<VehiculosController>/5
-        [HttpGet("{placa}")]
-        public Vehiculos Get(string placa)
-        {
-            return context.vehiculos.FirstOrDefault(x => x.placa == placa);
-        }
+		[HttpGet]
+		public IEnumerable<Vehiculos> Get()
+		{
+			return context.vehiculos.ToList();
+		}
 
-        // POST api/<VehiculosController>
-        [HttpPost]
-        public int Post([FromBody] Vehiculos vehiculos)
-        {
-            return context.vehiculos.Add(vehiculos).Context.SaveChanges();
-        }
+		[HttpGet("{placa}")]
+		public ActionResult<Vehiculos> Get(string placa)
+		{
+			var vehiculo = context.vehiculos.FirstOrDefault(x => x.placa == placa);
+			if (vehiculo == null)
+			{
+				return NotFound(); // 404 Not Found
+			}
+			return vehiculo;
+		}
 
-        // PUT api/<VehiculosController>/5
-        [HttpPut("{placa}")]
-        public int Put(string placa, [FromBody] Vehiculos vehiculosActualizada)
-        {
-            Vehiculos? vehiculoBuscado = context.vehiculos.FirstOrDefault(x => x.placa == placa);
-            if (vehiculoBuscado == null) { return 0; }
-            vehiculoBuscado.marca = vehiculosActualizada?.marca;
-            vehiculoBuscado.modelo = vehiculosActualizada?.modelo;
-            vehiculoBuscado.color = vehiculosActualizada?.color;
-            vehiculoBuscado.id_usuario = vehiculosActualizada.id_usuario;
+		[HttpPost]
+		public IActionResult Post([FromBody] Vehiculos vehiculo)
+		{
+			context.vehiculos.Add(vehiculo);
+			context.SaveChanges();
+			return CreatedAtAction(nameof(Get), new { placa = vehiculo.placa }, vehiculo);
+		}
 
-            int result = context.SaveChanges();
+		[HttpPut("{placa}")]
+		public IActionResult Put(string placa, [FromBody] Vehiculos vehiculoActualizado)
+		{
+			try
+			{
+				var vehiculoBuscado = context.vehiculos.FirstOrDefault(x => x.placa == placa);
+				if (vehiculoBuscado == null)
+				{
+					return NotFound(); // 404 Not Found
+				}
 
-            return result;
-        }
+				vehiculoBuscado.marca = vehiculoActualizado.marca;
+				vehiculoBuscado.modelo = vehiculoActualizado.modelo;
+				vehiculoBuscado.color = vehiculoActualizado.color;
+				vehiculoBuscado.id_usuario = vehiculoActualizado.id_usuario;
 
-        // DELETE api/<VehiculosController>/5
-        [HttpDelete("{placa}")]
-        public int Delete(string placa)
-        {
-            int response = 0;
+				context.SaveChanges();
+				return NoContent(); // 204 No Content
+			}
+			catch (Exception)
+			{
+				return BadRequest(); // 400 Bad Request
+			}
+		}
 
-            var vehiculoBuscado = context.vehiculos.FirstOrDefault(x => x.placa == placa);
+		[HttpDelete("{placa}")]
+		public IActionResult Delete(string placa)
+		{
+			var vehiculoBuscado = context.vehiculos.FirstOrDefault(x => x.placa == placa);
+			if (vehiculoBuscado == null)
+			{
+				return NotFound(); // 404 Not Found
+			}
 
-            if (vehiculoBuscado != null)
-            {
-                response = context.vehiculos.Remove(vehiculoBuscado).Context.SaveChanges();
-            }
+			context.vehiculos.Remove(vehiculoBuscado);
+			context.SaveChanges();
+			return NoContent(); // 204 No Content
+		}
+	}
 
-            return response;
-        }
-    }
 }

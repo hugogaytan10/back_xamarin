@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\estar\\source\\repos\\movilapispruebas terminada fin de momen\\movilapispruebas terminada fin de momen\\movilapispruebas\\movilapispruebas.csproj": {}
+    "C:\\Users\\clent\\Desktop\\hugui\\BE\\back_xamarin\\back_xamarin\\movilapispruebas\\movilapispruebas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\estar\\source\\repos\\movilapispruebas terminada fin de momen\\movilapispruebas terminada fin de momen\\movilapispruebas\\movilapispruebas.csproj": {
+    "C:\\Users\\clent\\Desktop\\hugui\\BE\\back_xamarin\\back_xamarin\\movilapispruebas\\movilapispruebas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\estar\\source\\repos\\movilapispruebas terminada fin de momen\\movilapispruebas terminada fin de momen\\movilapispruebas\\movilapispruebas.csproj",
+        "projectUniqueName": "C:\\Users\\clent\\Desktop\\hugui\\BE\\back_xamarin\\back_xamarin\\movilapispruebas\\movilapispruebas.csproj",
         "projectName": "movilapispruebas",
-        "projectPath": "C:\\Users\\estar\\source\\repos\\movilapispruebas terminada fin de momen\\movilapispruebas terminada fin de momen\\movilapispruebas\\movilapispruebas.csproj",
-        "packagesPath": "C:\\Users\\estar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\estar\\source\\repos\\movilapispruebas terminada fin de momen\\movilapispruebas terminada fin de momen\\movilapispruebas\\obj\\",
+        "projectPath": "C:\\Users\\clent\\Desktop\\hugui\\BE\\back_xamarin\\back_xamarin\\movilapispruebas\\movilapispruebas.csproj",
+        "packagesPath": "C:\\Users\\clent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clent\\Desktop\\hugui\\BE\\back_xamarin\\back_xamarin\\movilapispruebas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\estar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\clent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
